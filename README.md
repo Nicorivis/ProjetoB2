@@ -1,1 +1,1 @@
-# Projeto do segundo Bimestre, da matéria Desenvolvimento Web do Professor Otavio
+# Projeto do segundo Bimestre, da matéria Desenvolvimento Mobile do Professor Otavio
